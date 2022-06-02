@@ -2,7 +2,7 @@
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=ElbruzNartThawkho&label=Profile%20views&color=ff69b4&style=flat" alt="ElbruzNartThawkho" /> </p>
 
 <p align="center">
-  <img src="https://c.tenor.com/DMpbzFxAxRYAAAAd/snorlax.gif" align="left" alt="ElbruzNartŞuruh" >  
+  
   <!--<img src="https://c.tenor.com/DMpbzFxAxRYAAAAd/snorlax.gif" style="width:192px;height:192px;" align="right" alt="ElbruzNartŞuruh" >-->
   <p align="center">
 <a href="https://www.facebook.com/elbruz.suruh/" target="blank"><img align="center" src="https://upload.wikimedia.org/wikipedia/commons/thumb/5/51/Facebook_f_logo_%282019%29.svg/480px-Facebook_f_logo_%282019%29.svg.png" alt="ElbruzNartThawkho" height="40" width="40" /></a>
