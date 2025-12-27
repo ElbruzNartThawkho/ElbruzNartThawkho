@@ -14,7 +14,7 @@
 <a href="https://www.linkedin.com/in/elbruznartthawkho1864/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="ElbruzNartThawkho" height="40" width="40" /></a>
 <a href="https://www.instagram.com/elbruznartthawkho/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="ElbruzNartThawkho" height="40" width="40" /></a>
   
-<p align="center"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ElbruzNartThawkho&layout=compact" alt="ElbruzNartThawkho" />
+<p align="center"><img align="center" src="https://github-readme-stats-fast.vercel.app/api/top-langs/?username=ElbruzNartThawkho&layout=compact&theme=dark" alt="ElbruzNartThawkho" /><!--https://metrics.lecoq.io/ElbruzNartThawkho?template=classic&languages=1-->
 <br></br>
   <img src="https://raw.githubusercontent.com/ElbruzNartThawkho/HamsterBall3D/refs/heads/main/Assets/github.png" style="width:704px;height:384px;" align="center" alt="ElbruzNartŞuruh" >
   </p>
