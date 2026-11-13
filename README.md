@@ -21,3 +21,8 @@
   <br><br>
   <img src="https://raw.githubusercontent.com/ElbruzNartThawkho/HamsterBall3D/refs/heads/main/Assets/github.png" width="704" height="384" alt="ElbruzNartŞuruh" />
 </p>
+<p align="center">
+  <a href="https://www.youtube.com/watch?v=4wgH4szXiqU" target="_blank">
+    <img src="https://img.shields.io/badge/🎵_Now_Playing-Cynthia_Harrell_–_Snake_Eater-000000?style=for-the-badge&logo=youtube&logoColor=FF0000" alt="Snake Eater" />
+  </a>
+</p>
